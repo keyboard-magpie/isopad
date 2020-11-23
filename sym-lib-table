@@ -1,0 +1,6 @@
+(sym_lib_table
+  (lib (name canadian_parts)(type Legacy)(uri "/Users/tombarnes/Documents/GitHub/kicad-gits/that canadian KiCAD Libs/canadian_schematics/canadian_parts.lib")(options "")(descr ""))
+  (lib (name keyboard_parts)(type Legacy)(uri "/Users/tombarnes/Documents/GitHub/kicad-gits/that canadian KiCAD Libs/canadian_schematics/keyboard_parts.lib")(options "")(descr ""))
+  (lib (name ProMicro)(type Legacy)(uri "/Users/tombarnes/Documents/GitHub/kicad-gits/that canadian KiCAD Libs/canadian_schematics/ProMicro.lib")(options "")(descr ""))
+  (lib (name SMKJP)(type Legacy)(uri /Users/tombarnes/Documents/GitHub/kicad-gits/SMKJP_kicad_components/symbols/SMKJP.lib)(options "")(descr ""))
+)
